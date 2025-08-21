@@ -1,4 +1,4 @@
-# 🎨 ASU Unit Nerolac – SVG Design
+# 🎨 SVG Design
 
 This repository contains an SVG graphic created using Inkscape
 .
